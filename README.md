@@ -1,2 +1,2 @@
 # water_balance
-small app showing how much water did you got from your water daily limit
+small app showing how much water you already drinked from your water daily limit
